@@ -1,2 +1,2 @@
 # anpr_yolov8
-This repository belongs to my mini project 
+Use google colab to clone the code 
